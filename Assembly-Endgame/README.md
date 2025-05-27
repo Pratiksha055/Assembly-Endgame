@@ -35,5 +35,8 @@ This project helped me reinforce the following skills:
 To run this project locally:
 
 ```bash
+git clone https://github.com/your-username/Assembly-Endgame.git
+cd Assembly-Endgame
+
 npm install
 npm run dev
